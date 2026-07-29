@@ -31,4 +31,4 @@ The system is designed to be easy to configure.
 
 ## 📞 Contact
 
-Discord: [inqy](https://discord.com/users/728286346996613190)
+Discord: [inqy.](https://discord.com/users/728286346996613190)
