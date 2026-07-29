@@ -27,7 +27,7 @@ The system is designed to be easy to configure.
 
 ## 🎥 Demo
 
-[▶️ Watch Demo]([Sell.mp4](https://youtu.be/toc0VZHY-Sc))
+[▶️ Watch Demo](https://youtu.be/toc0VZHY-Sc)
 
 ## 📞 Contact
 
